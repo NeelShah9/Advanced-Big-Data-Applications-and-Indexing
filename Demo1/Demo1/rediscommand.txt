@@ -1,0 +1,2 @@
+redis-server --service-start --service-name Redis6379
+ 
